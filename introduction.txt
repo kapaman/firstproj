@@ -1,4 +1,3 @@
 My name is xyz and I study at zyx college in abc. I'm from abc and I'm intereseted in learning new web technologies.
 I'm following a youtube video tutorial.
 Github seems like a nice place to start.
-
